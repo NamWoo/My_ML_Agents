@@ -15,6 +15,10 @@ ref : https://github.com/Unity-Technologies/URDF-Importer
 
 Asset 에 미리 작성한 URDF 파일 드레그엔드롭
 
+내가 만든 URDF 
+
+https://github.com/NamWoo/My_ML_Agents/blob/main/urdf/nw_mybot_00.urdf
+
 ![](https://github.com/Unity-Technologies/URDF-Importer/blob/main/images~/URDF%20Menu.png)
 
 오른쪽 클릭해서 불러오기
