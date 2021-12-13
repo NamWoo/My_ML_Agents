@@ -19,7 +19,7 @@ ubuntu20.04 + unity + ML-Agents 2.10
 
 
 목차
-|||
+||||
 |:---:|:---:|:---:|
 |설치|[installation](https://github.com/NamWoo/My_ML_Agents/blob/main/docs/nw_00_installation.md)||
 |URDF Import|[URDF_Import](https://github.com/NamWoo/My_ML_Agents/blob/main/docs/nw_00_add_urdf_00.md)|ROS 연결하려면 로봇을 먼저 ROS로 붙일 수 있는 URDF가! (가볍게 로봇 URDF 로 작성해봤다.)|
