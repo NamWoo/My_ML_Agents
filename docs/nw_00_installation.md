@@ -29,6 +29,13 @@ INDEX
 
 ### dependency
 ```
+
+sudo apt-get update
+sudo apt install build-essential -y
+wget https://us.download.nvidia.com/XFree86/Linux-x86_64/470.57.02/NVIDIA-Linux-x86_64-470.57.02.run
+chmod +x NVIDIA-Linux-x86_64-470.57.02.run
+sudo ./NVIDIA-Linux-x86_64-470.57.02.run
+
 sudo apt-get install -y build-essential curl gcc ssh git net-tools vim
 pip3 install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
 
