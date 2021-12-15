@@ -1,22 +1,30 @@
 # My_ML_Agents
 
-AMR을 개발하고 개발된 AMR을 가상환경에서 ROS로 제어하는 업무를 하고 있었는데 우연치 않게 들어간 [모두연](https://modulabs.co.kr/product/robotics-ai-lab/)이란 곳에서 유니티로 강화학습을 가상환경에서 공부해보는 내용이 있길래 낼름 등록했고 함께 학습 중에 있다.
-* 모두연 robotics-ai lab https://modulabs.co.kr/product/robotics-ai-lab/
+![](https://user-images.githubusercontent.com/8021479/146111601-e52cc03d-ab88-482a-92aa-2640d2b269e4.png)
 
-강화학습은..  
-* 네이버에서 주최한 금융데이터로 주식 예측 해본적이 있지만 오픈소스 가져다 붙이는 수준이었고 
-* (그래도 순위권에 들어서 춘천에 입소해서 좋은 교육도 받아봤다.)
+ros 기반의 가상과 현실의 로봇에 인공지능을 입히는 일(연구, 개발)를 진행했는데 대부분 혼자서 개발하다보니까 다른 곳에서는 어떻게 진행되고 있고 새롭고 신선하고 다양한 인사이트를 넣고자 항상 갈망했는데 우연치 찾은 모두연에서 디지털트윈이라는 키워드로 비슷한 내용이 있길래 참여해본다.
 
-유니티는..  
-* AirSim 으로 그리고 linux 에서 겐트리 로봇 모델 올리는 초창기 환경구축만 해본.. 그저 얇은.. 
-* (이건 디지털 트윈으로 잘 구현되어서 물류창고를 WCS랑 연결되어 쭉쭉 뻗어 완성되었다.)
+git 프로젝트로 매니지먼트 하면서 잘 기록해보자.
+
+>목표는 : 유니티 가상환경에서 AMR기반으로 강화학습을 적용!
+
+* 모두연 
+  * robotics-ai lab https://modulabs.co.kr/product/robotics-ai-lab/
 
 
-결론은 잘 모른다는 얘기를 길게 한.. 
+## 프로젝트 관리, 이슈 관리
 
-ubuntu20.04 + unity + ML-Agents 2.10
+![image](https://user-images.githubusercontent.com/8021479/146115156-2db04762-0c62-4951-9821-9d5ee556081f.png)
 
-으로 진행해본 내용을 차츰차츰 작성해본다.
+* https://github.com/NamWoo/My_ML_Agents/projects/1
+
+기록. 기록. 피터드러커가 한 말 중에 마음 속에 세기는 내용이 있다.
+
+```
+측정할 수 없으면 관리할 수 없다.
+관리할 수 없으면 개선할 수 없다.
+```
+잘 적어놔야 측정이 가능하고 관리가 가능하다는!
 
 
 ## 목차
