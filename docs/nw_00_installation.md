@@ -103,3 +103,8 @@ Player - Other Settings Configuration
 
 
 ![](https://user-images.githubusercontent.com/8021479/145761527-a52be307-c210-4436-ab06-7e7cb37f64ba.png)
+
+
+---
+
+[다시 # Home main 으로](../README.md)
