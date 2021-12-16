@@ -39,6 +39,7 @@ $ git clone https://github.com/Unity-Technologies/barracuda-release
 
 #### ML Agents & ML Agents ExtentionConfigure your Development Environment
 
+```bash
 $ pip3 install mlagents==0.27.0
 
 $ git clone --branch release_18 https://github.com/Unity-Technologies/ml-agents.git

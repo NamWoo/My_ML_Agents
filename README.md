@@ -1,3 +1,9 @@
+
+>If you can’t measure it, you can’t manage it  
+>측정할 수 없으면 관리할 수 없다. 관리할 수 없으면 개선할 수 없다.   
+>  \-  Peter Drucker
+
+
 # My_ML_Agents
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01d1ad11-b3c1-43ef-a650-105b5445bf47/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211215%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211215T160824Z&X-Amz-Expires=86400&X-Amz-Signature=b2fcf99cbf2806df1518a7836230a808da41ee933ed8bfe4f417df38f23d9d7d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
@@ -22,12 +28,8 @@ git 프로젝트로 매니지먼트 하면서 잘 기록해보자.
 
 * https://github.com/NamWoo/My_ML_Agents/projects/1
 
-기록. 기록. 피터드러커가 한 말 중에 마음 속에 세기는 내용이 있다.
 
-```
-측정할 수 없으면 관리할 수 없다.
-관리할 수 없으면 개선할 수 없다.
-```
+
 
 
 
